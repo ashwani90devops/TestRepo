@@ -1,3 +1,7 @@
 This is the content of file named file8.txt
 
+<<<<<<< HEAD
 Dumadum mast kalandar
+=======
+Cheanged file8.txt and write a song
+>>>>>>> custom
